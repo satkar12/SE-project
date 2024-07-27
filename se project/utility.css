@@ -1,0 +1,10 @@
+.top-down{
+    transform:translateY(-50px);
+    transition:0.5s ease-in-out;
+}
+.delay-2{
+    transition-delay: 0.2s;
+}
+.delay-4{
+    transition-delay: 0.4s;
+}
